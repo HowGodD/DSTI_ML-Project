@@ -1,4 +1,3 @@
-Where is Rajesh?
 # DSTI_ML-Project
 Project Summary:
 “There is no friend as loyal as a book.” - Ernest Hemingway
