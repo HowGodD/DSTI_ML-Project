@@ -36,7 +36,7 @@ How to Run the Project
    Copy the code
    pip install -r requirements.txt
 3. Download the datasets and place them in the appropriate directory
-4. Before running the code, be sure to have updated the two file paths at the start of the code
+4. Before running the code, be sure to update the two file paths at the start of the code
 5. Run the Jupyter Notebook to explore the data and execute the analysis.
 
 # Authors
