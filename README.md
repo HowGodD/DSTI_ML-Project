@@ -40,6 +40,6 @@ How to Run the Project
 5. Run the Jupyter Notebook to explore the data and execute the analysis.
 
 # Authors
-Lucy AKITT
-Hasina Angelina RAJOELIMBOLOLONA
-Lorenzo IERFINO
+. Lucy AKITT
+. Hasina Angelina RAJOELIMBOLOLONA
+. Lorenzo IERFINO
