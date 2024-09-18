@@ -5,7 +5,7 @@ This project focuses on analyzing Goodreads book data to uncover patterns and tr
 
 Data Sources
 - Goodreads Dataset: This dataset contains information about books, including their titles, authors, and user ratings. It was read from a CSV file, and some preprocessing was required to handle missing or misaligned rows.
-- ISBN Metadata: Additional metadata extracted from ISBN numbers was included, although some columns were later dropped due to redundancy with the Goodreads dataset.
+- ISBN Metadata: Additional metadata extracted from ISBN numbers was included, although some columns were later dropped due to redundancy with the Goodreads dataset. (isbn_metadata_code.ipynb)
 
 Key Libraries and Tools
 - Pandas: For data manipulation and cleaning.
